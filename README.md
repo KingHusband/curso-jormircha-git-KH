@@ -1,3 +1,3 @@
 # Curso de _Git_ & _GitHub_
 
-Hola, soy tu amigo y docente digital Jonathan MirCha, bienvenidos a mi curso.
+Hola, Daniel, recuerda que este README es para describir resumidamente el contenido del repositorio.
