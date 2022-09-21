@@ -1,0 +1,110 @@
+commit 1d11af8110666be945504dd4f349710d51a721c4
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 09:13:09 2022 -0400
+
+    Agregando contenido sobre el tema 'Cambios' al README.md
+
+commit 134b1a619c61c07adec2a426a9f7f23f25caf279
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 09:05:22 2022 -0400
+
+    Agregando 2 párrafos.
+
+commit a5dfae7fcfc42ef588e1eabf886f5064243aead4
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 09:00:03 2022 -0400
+
+    Agregando contenido respecto al tema 'Cambios' del curso.
+
+commit 8157c9589cb75f57797f34c953afba33a2a6b3a9
+Merge: 660afb1 4973aaa
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:53:12 2022 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio.
+
+commit 660afb17eeba43248525bec34bb5eafbd675f550
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:38:16 2022 -0400
+
+    Agregando una ol con las estaciones del año más sus fechas respectivas.
+
+commit 4973aaa33250912a9ee37c60184e5d761cff8cdc
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:38:16 2022 -0400
+
+    Agregando una ol con las estaciones del año
+
+commit db8e42216338e5c63328656a7acedb8b9bf0e551
+Merge: 3e84a22 2f67c66
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:33:15 2022 -0400
+
+    Resolviendo conflicto merge main-html en el documento index.html
+
+commit 2f67c66a70e0d3f18885fb57eeabd5916e480f7e
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:19:58 2022 -0400
+
+    Agregando index.js al index.html
+
+commit 3e84a2270bcf3d49806a496b7176fe8775bf4508
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Mon Sep 19 08:17:39 2022 -0400
+
+    Agregando style.css al index.html
+
+commit 75d9f615536f758d704a8120f54cd6278b3d81da
+Merge: 4e7384a 25594ab
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Sun Sep 18 16:54:19 2022 -0400
+
+    Merge branch 'js'
+
+commit 25594ab9372d6cb1520f518dfd0f97baaba41fdd
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Sat Sep 17 16:59:30 2022 -0400
+
+    Creando index.js
+
+commit 4e7384a0ac9971722eac9454ee70de6b7923ac4d
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Sat Sep 17 16:53:45 2022 -0400
+
+    Creando style.css
+
+commit f51dcd0ebcb9bb81190cc65573c69168f8731243
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Sat Sep 17 16:49:43 2022 -0400
+
+    Creando index.html
+
+commit 1f8287f54bef3392bc152c820a210abe91f55659
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Sat Sep 17 16:26:44 2022 -0400
+
+    Ignorando archivos .exe
+
+commit 73daabfa1cc87633d3888b07fb937332d1c32839
+Author: KingHusbandOficial <113728260+KingHusbandOficial@users.noreply.github.com>
+Date:   Sat Sep 17 14:24:02 2022 -0400
+
+    Creating repositories' license
+
+commit a91957f03eb47c9f947b12cc127cb89be35ac884
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Fri Sep 16 18:59:27 2022 -0400
+
+    Cambios en el contenido del README
+
+commit 5f0bc3ee74090a9af9b4112acf76656502976429
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Fri Sep 16 18:39:31 2022 -0400
+
+    Agregando contenido inicial al README.md
+
+commit 19f71fb1684db3951bed11cb1917758f9f24ee59
+Author: KingHusband <kinghusbandoficial@gmail.com>
+Date:   Fri Sep 16 17:57:55 2022 -0400
+
+    Initial commit

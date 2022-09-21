@@ -1,0 +1,26 @@
+* ba10367 Agregando contenido sobre el tema 'Registro del historial' al README.md
+* 1d11af8 Agregando contenido sobre el tema 'Cambios' al README.md
+* 134b1a6 Agregando 2 párrafos.
+* a5dfae7 Agregando contenido respecto al tema 'Cambios' del curso.
+*   8157c95 Resolviendo conflicto en estaciones del año y fechas de inicio.
+|\  
+| * 4973aaa Agregando una ol con las estaciones del año
+* | 660afb1 Agregando una ol con las estaciones del año más sus fechas respectivas.
+|/  
+*   db8e422 Resolviendo conflicto merge main-html en el documento index.html
+|\  
+| * 2f67c66 Agregando index.js al index.html
+* | 3e84a22 Agregando style.css al index.html
+* |   75d9f61 Merge branch 'js'
+|\ \  
+| * | 25594ab Creando index.js
+* | | 4e7384a Creando style.css
+| |/  
+|/|   
+* | f51dcd0 Creando index.html
+|/  
+* 1f8287f Ignorando archivos .exe
+* 73daabf Creating repositories' license
+* a91957f Cambios en el contenido del README
+* 5f0bc3e Agregando contenido inicial al README.md
+* 19f71fb Initial commit
