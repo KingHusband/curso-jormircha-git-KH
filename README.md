@@ -2,6 +2,8 @@
 
 Hola, Daniel, recuerda que este README es para describir resumidamente el contenido del repositorio.
 
+Este commit es para oficializar nuestra versión **1.0.0**.
+
 <!-- Cambios -->
 
 <!-- Para hacer un cambio a un commit, puedes realizarlo mientras no hayas hecho un push al repositorio remoto. Porque si no habría que crear otro commit especificando que hubo conflictos y se resolvieron. Así, al revisar el historial de cambios, se podría entender fácilmente lo que sucedió.
